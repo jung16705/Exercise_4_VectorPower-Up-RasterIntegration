@@ -1,0 +1,32 @@
+[
+    {
+        "shelter_id": "SH-光復鄉-0",
+        "elev_mean": 181.41683797797955,
+        "slope_max": 25.108647208716775,
+        "risk_level": "MEDIUM"
+    },
+    {
+        "shelter_id": "SH-光復鄉-1",
+        "elev_mean": 186.91482592449518,
+        "slope_max": 33.73290210377547,
+        "risk_level": "HIGH"
+    },
+    {
+        "shelter_id": "SH-光復鄉-2",
+        "elev_mean": 210.49583623995878,
+        "slope_max": 42.345680775366674,
+        "risk_level": "HIGH"
+    },
+    {
+        "shelter_id": "SH-光復鄉-3",
+        "elev_mean": 255.00539631298645,
+        "slope_max": 50.13189347284534,
+        "risk_level": "HIGH"
+    },
+    {
+        "shelter_id": "SH-光復鄉-4",
+        "elev_mean": 323.3617735320275,
+        "slope_max": 56.163806509987715,
+        "risk_level": "HIGH"
+    }
+]
